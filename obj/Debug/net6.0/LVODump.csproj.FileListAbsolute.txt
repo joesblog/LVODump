@@ -1,0 +1,11 @@
+N:\_dev\amiga\dotami\Solution1\LVODump\bin\Debug\net6.0\LVODump.deps.json
+N:\_dev\amiga\dotami\Solution1\LVODump\bin\Debug\net6.0\LVODump.dll
+N:\_dev\amiga\dotami\Solution1\LVODump\bin\Debug\net6.0\LVODump.pdb
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\LVODump.GeneratedMSBuildEditorConfig.editorconfig
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\LVODump.AssemblyInfoInputs.cache
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\LVODump.AssemblyInfo.cs
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\LVODump.csproj.CoreCompileInputs.cache
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\LVODump.dll
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\refint\LVODump.dll
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\LVODump.pdb
+N:\_dev\amiga\dotami\Solution1\LVODump\obj\Debug\net6.0\ref\LVODump.dll
